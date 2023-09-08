@@ -9,7 +9,7 @@ from EmployeeApp.serializers import EmployeeSerializer
 from django.core.files.storage import default_storage
 
 # Create your views here.
-@csrf_exempt
+
 
 
 @csrf_exempt
